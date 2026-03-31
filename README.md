@@ -66,5 +66,5 @@ This project demonstrates the deployment of a dual-layered web infrastructure in
 <h2>Summary</h2>
 This project bridges the gap between traditional networking and modern cloud-native deployment. Successfully implementing Load Balancers, DNS zones, and App Service Swaps demonstrates the ability to build, secure, and scale an enterprise-level web environment in Azure. <br />
 
-For a detailed breakdown of the technical implementation, specific configurations, and in-depth analysis, please refer to the [Full Project Report](https://github.com/TaiwoG1/) <br />
+For a detailed breakdown of the technical implementation, specific configurations, and in-depth analysis, please refer to the [Full Project Report](https://github.com/TaiwoG1/AzureWebArchitecture/blob/main/Azure_DNS_Web%20Servers_Load_Balancers_and_App_Servers_Web_apps.pdf) <br />
 
